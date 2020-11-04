@@ -1,4 +1,4 @@
-# Api Endpoints for HBTC Broker
+# Api Endpoints for 91Coin Broker
 
 Name | base endpoint
 ------------ | ------------
